@@ -94,7 +94,7 @@ The dataset was **downloaded from Kaggle** and used to perform EDA for improving
 - Raw notebook (`.ipynb`) is not provided to maintain originality and prevent direct copy-paste.  
 - The purpose of this project is to **showcase my learning journey**, not to provide ready-to-use business solutions.  
 
-👉 Refer to the attached **PDF file** in the `reports/` folder for full analysis and visualizations.  
+👉 Refer to the attached **PDF file** for full analysis and visualizations.  
 
 ---
 
@@ -105,4 +105,4 @@ It is not intended for actual business decision-making.
 To maintain uniqueness, only **PDF versions** of notebooks and insights are shared, not the original working code files.  
 
 ---
-⭐ **If you found this useful for practice, feel free to star the repository.**
+⭐ **If you would like to have a similar dashboard or analysis for your business/project, feel free to contact me.**
